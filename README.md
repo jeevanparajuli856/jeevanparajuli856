@@ -9,8 +9,9 @@ A cybersecurity student, machine learning researcher, and DevSecOps engineer pas
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jeevanparajuli856&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanparajuli856&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeevanparajuli856&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
+
 
 
 ### 🛠️ Tech Stack
